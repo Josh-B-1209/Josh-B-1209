@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-
 ![Kicad](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=kicad&logoColor=white)
 ![Altium-Designer](https://img.shields.io/badge/Altium-Designer-orange)
 ![Autodesk-Fusion](https://img.shields.io/badge/Autodesk-Fusion)
-![Autodesk-Inventor](https://img.shields.io/badge/Autodesk-Inventor)
+![Autodesk-Inventor](https://img.shields.io/badge/Autodesk-Inventor-yellow)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Josh-B-1209&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Josh-B-1209&theme=dark&hide_border=false)<br/>
