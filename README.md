@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Matlab](https://img.shields.io/badge/Matlab) 
+![Matlab](Matlab) 
 ![Simulink](https://img.shields.io/badge/Simulink) 
 ![Falstad](https://img.shields.io/badge/Falstad) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
