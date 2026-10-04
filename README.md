@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Kicad](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=kicad&logoColor=white)
+![Kicad](https://img.shields.io/badge/kicad-%23008080.svg?style=for-the-badge&logo=kicad&logoColor=white)
 ![Altium-Designer](https://img.shields.io/badge/Altium-Designer-brown)
 ![Autodesk-Fusion](https://img.shields.io/badge/Autodesk-Fusion-orange)
 ![Autodesk-Inventor](https://img.shields.io/badge/Autodesk-Inventor-yellow)
